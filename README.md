@@ -1,13 +1,17 @@
+<!-- About Me -->
+<h3 align="left">placeholder</h3>
+
 <table border="0">
   <tr>
     <td>
-      <h3>NAME ☀️</h3>
-      <p><strong>Age · Pronouns · Etc</strong></p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-      Nunc rhoncus pretium erat a finibus.</p>
+      <h4>
+        placeholder
+      </h4>
     </td>
     <td>
-      <img src="https://i.imgur.com/vk2C5F7.png" width="100">
+      <img src="https://i.imgur.com/vk2C5F7.png" width="150">
     </td>
   </tr>
 </table>
+
+
